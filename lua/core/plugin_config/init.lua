@@ -1,0 +1,11 @@
+require("core.plugin_config.theme")
+require("core.plugin_config.nvim_tree")
+require("core.plugin_config.lualine")
+require("core.plugin_config.telescope")
+require("core.plugin_config.treesitter")
+require("core.plugin_config.lsp_config")
+require("core.plugin_config.completions")
+require("core.plugin_config.oil_config")
+require("core.plugin_config.terminal_config")
+require("core.plugin_config.background_transparent_config")
+
